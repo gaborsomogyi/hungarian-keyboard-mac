@@ -22,4 +22,4 @@ In System Preferences -> Keyboard -> Input sources
 - choosing one and clicking Add adds it to the available keyboard layouts list
 
 
-(c) originally created by Bachman - found on the internet somewhere
+(c) originally created by Bachman - found on http://beszeljukmac.com/index.php/forums/viewthread/42122/
