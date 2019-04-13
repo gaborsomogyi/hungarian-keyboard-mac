@@ -12,7 +12,7 @@ HungarianPro is the default layout, the additions show the adjustments
 
 Copy the HungarianPro.bundle folder to /Library/Keyboard Layouts/ 
 ```
-sudo cp HungarianPro.bundle /Library/Keyboard Layouts/ 
+sudo cp -r HungarianPro.bundle "/Library/Keyboard Layouts/"
 ```
 
 In System Preferences -> Keyboard -> Input sources
